@@ -1,9 +1,9 @@
 # Table of Content
-# Courses
+# 1. Courses
 ## Advance Epidemiology
 
 ## Data Management & Analysis with R
 
 ## Advance Biostatistics
 
-# Project
+# 2. Project
